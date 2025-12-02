@@ -373,16 +373,16 @@ git commit --amend
 
 ## ✅ Setup-Checkliste
 
-- [ ] Repository auf GitHub erstellt
-- [ ] Lokal geklont
-- [ ] Curriculum-Dateien kopiert
-- [ ] .gitignore konfiguriert
-- [ ] README.md angepasst
-- [ ] Initiales Commit gemacht
-- [ ] Zu GitHub gepusht
-- [ ] Repository-Link gespeichert
-- [ ] Git-Konfiguration optimiert
-- [ ] Bereit für Modul 1!
+- [x] Repository auf GitHub erstellt
+- [x] Lokal geklont
+- [x] Curriculum-Dateien kopiert
+- [x] .gitignore konfiguriert
+- [x] README.md angepasst
+- [x] Initiales Commit gemacht
+- [x] Zu GitHub gepusht
+- [x] Repository-Link gespeichert
+- [x] Git-Konfiguration optimiert
+- [x] Bereit für Modul 1!
 
 ---
 
